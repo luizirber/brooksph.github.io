@@ -86,46 +86,46 @@ Yuan, H., Fu, G., Brooks, P.T., Weber, I., & Gadda G. (2010). Steady State Kinet
 [2013 Computational Biology for Evolutionary Biologists] (http://ged.msu.edu/courses/2013-fall-cse-801/), Michigan State University, East Lansing, Michigan 48824
 *	A semester long course taught by C. Titus Brown focusing on programming in python and NGS sequencing analysis. 
 
-[2013 MSU Applied Bioinformatics Workshop] (http://buell-lab.plantbiology.msu.edu/workshop2013.shtml)
-, Michigan State University, East Lansing, Michigan 48824
+[2013 MSU Applied Bioinformatics Workshop] (http://buell-lab.plantbiology.msu.edu/workshop2013.shtml), Michigan State University, East Lansing, Michigan 48824
 
 ####Presentations  
 #####ORAL
 2015 Ph.D. Proposal Seminar 
-*	Host Microbiota as a Factor in the Adaptation of Campylobacter jejuni Guillain-Barré Associated Strains
+  * Host Microbiota as a Factor in the Adaptation of Campylobacter jejuni Guillain-Barré Associated Strains
 
 2014 MSU College of Veterinary Medicine Annual Phi-Zeta day
-*	Characterization of Campylobacter jejuni Infection in C57BL/6 Il1-10^-/- Mice with Conventional or Antibiotic Altered Microbiota
+  *	Characterization of Campylobacter jejuni Infection in C57BL/6 Il1-10^-/- Mice with Conventional or Antibiotic Altered Microbiota
 
 2014 MSU Alliance for Graduate Education and the Professoriate 
-*	Pathogens, antibiotics and evolution
+  *	Pathogens, antibiotics and evolution
 
 2009 McNair/SRI Symposium, Michigan State University, East Lansing, MI
-*	Biophysical Interaction of palmitate with the kinase domain of Protein Kinase R (PKR)
+  *	Biophysical Interaction of palmitate with the kinase domain of Protein Kinase R (PKR)
 
 2008 Annual Biomedical Research Conference for Minority Students in Orlando, FL
-*	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin  
+  *	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin  
 
 2008 McNair/SROP Symposium, Michigan State University, East Lansing, MI
-*	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin  
+  *	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin  
 
 ######POSTER
 
 2015 Society for Neuroscience Annual Meeting (October 2015)
 Humanized microbiota alter host immune response to Campylobacter jejuni infection
 2014 Annual Society for Microbiology 
-*	Characterization of Campylobacter jejuni Infection in C57BL/6 IL-10-/- Mice with Conventional or Antibiotic Altered Microbiota
+  *	Characterization of Campylobacter jejuni Infection in C57BL/6 IL-10-/- Mice with Conventional or Antibiotic Altered Microbiota
 
 2009 McNair/SRI Symposium, Michigan State University, East Lansing, MI
-*	Biophysical Interaction of palmitate with the kinase domain of Protein Kinase R (PKR)
+  *	Biophysical Interaction of palmitate with the kinase domain of Protein Kinase R (PKR)
 
 2008 Ronald E. McNair Symposium, Georgia State University, Atlanta GA
-*	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin
+  *	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin
 
 2008 CIC/SROP Conference, Michigan State University, East Lansing, MI
-*	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin
+  *	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin
+
 2008 McNair/SROP Symposium, Michigan State University, East Lansing, MI
-*	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of AlbuminTRAINING GRANTS AND FELLOWSHIPS
+  *	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of AlbuminTRAINING GRANTS AND FELLOWSHIPS
 
 (Year(s), Grant or fellowship title, source of funding, total amount of funding
 

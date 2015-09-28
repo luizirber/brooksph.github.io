@@ -71,7 +71,7 @@ Chee Bing Ong, Kazuyoshi Kumagai, Phillip T. Brooks, Christina Brandenberger, Ry
 Yuan, H., Fu, G., Brooks, P.T., Weber, I., & Gadda G. (2010). Steady State Kinetic Mechanism and Reductive Half-Reaction of D-Arginine dehydrogenase from Pseudomonas aeruginosa. Journal of Biochemistry, 49, pp. 9542-9550 DOI: 10.1021/BI101420w
 
 ####RELEVANT TRAINING AND COURSEWORK
-(Year, Course title, Location, URL)
+(Year, Course title, Location)
 
 2015 Write Winning Grant Proposals Workshop, Michigan State University, East Lansing, Michigan 48824
 

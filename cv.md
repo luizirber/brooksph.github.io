@@ -12,7 +12,7 @@ permalink: /cv/
 
 ####PERSONAL DETAILS
 
-Mailing Address: Food Safety & Toxicology Building, 1129 Farm Lane Rm. 181, Michigan State University, East Lansing, MI 48823
+Mailing Address: Food Safety & Toxicology Building, 1129 Farm Lane Rm. 180, Michigan State University, East Lansing, MI 48823
 
 ####EDUCATION
 

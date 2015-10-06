@@ -127,7 +127,7 @@ Humanized microbiota alter host immune response to Campylobacter jejuni infectio
 2008 McNair/SROP Symposium, Michigan State University, East Lansing, MI
 *	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin
 
-TRAINING GRANTS AND FELLOWSHIPS
+####TRAINING GRANTS AND FELLOWSHIPS
 
 (Year(s), Grant or fellowship title, source of funding, total amount of funding
 

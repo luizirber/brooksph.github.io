@@ -26,6 +26,6 @@ All in all, we covered a lot and I think that many of the participants left feel
 <img src="https://raw.githubusercontent.com/brooksph/brooksph.github.io/master/images/NGS_Group_Photo.jpg "NGS_Group_Photo"" height="" width="">
 
 
-It looks like the course will be up and running again next year and I highly recommend it to anyone with an interest NGS data analysis. 
+It looks like the course will be up and running again next year and I highly recommend it to anyone with an interest in ngs data analysis. 
 
 

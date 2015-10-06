@@ -64,7 +64,7 @@ Graduate Assistant, Michigan State University Bridge to the Ph.D. Neuroscience P
 
 ####PUBLICATIONS 
 
-Phillip T. Brooks, Julia A. Bell, Ankit Malik, Barbie J. Gadsden, Linda S. Mansfield (2015). Antibiotic Alteration of the Host Microbiota Enhances the Hosts Response to Infection with C. jejuni Guillain-Barre Syndrome Associated Isolates. ***IN PROGRESS***
+Phillip T. Brooks, Julia A. Bell, Ankit Malik, Barbie J. Gadsden, Linda S. Mansfield (2015).Broad spectrum antibiotic treatment enhanced T cell mediated inflammation and Guillain Barré-associated antibody responses to Campylobacter jejuni in a mouse model. ***IN PROGRESS***
 
 Chee Bing Ong, Kazuyoshi Kumagai, Phillip T. Brooks, Christina Brandenberger, Ryan P. Lewandowski, Daven N. Jackson-Humbles, Rance Nault, Timothy Zacharewski, James G. Wagner, and Jack R. Harkema (2015). Ozone-Induced Type 2 Immunity in Nasal Airways: Development and Lymphoid Cell Dependence in Mice. American Journal of Respiratory Cell and Molecular Biology. DOI:10.1165/rcmb.2015-0165OC
 

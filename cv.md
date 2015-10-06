@@ -125,14 +125,13 @@ Humanized microbiota alter host immune response to Campylobacter jejuni infectio
 2008 CIC/SROP Conference, Michigan State University, East Lansing, MI
 *	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin
 2008 McNair/SROP Symposium, Michigan State University, East Lansing, MI
-*	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of AlbuminTRAINING GRANTS AND FELLOWSHIPS
+*	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin
+
+TRAINING GRANTS AND FELLOWSHIPS
 
 (Year(s), Grant or fellowship title, source of funding, total amount of funding
 
-2012-2015	Institute for Integrative Toxicology Fellowship, National Institutes of Health 
+2012-2015	Institute for Integrative Toxicology Fellowship (Ruth L. Kirschstein National Research Service Award (NRSA))  
 
 2014	Alliance for Graduate Education in the Professoriate (AGEP) Fellowship, MSU Graduate School
 
-####LEADERSHIP TRAINING
-
-####OUTREACH

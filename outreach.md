@@ -4,4 +4,4 @@ title: Outreach
 permalink: /outreach/
 ---
 
-http://bridgetoneuroscienceworkshop.com
+[Bridge to Neuroscience Workshop](http://bridgetoneuroscienceworkshop.com)

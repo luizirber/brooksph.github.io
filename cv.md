@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 #### Curriculum Vitae
-====================
+=====================
 
 #### Phillip T. Brooks
 ---------------------
@@ -19,6 +19,7 @@ permalink: /cv/
 Mailing Address: Food Safety & Toxicology Building, 1129 Farm Lane Rm. 180, Michigan State University, East Lansing, MI 48823
 
 #### EDUCATION
+--------------
 
 **Degree, University and location, Month/Year**
 
@@ -28,13 +29,16 @@ Ph.D. Comparative Medicine	Michigan State University	Exp. Fall 2016
 and Integrative Biology and 
 Environmental Integrative 
 Toxicological Sciences
+
 ####PROFESSIONAL EXPERIENCE
+--------------------------
 
 **Year(s), Job title, Location**
 
 2011-2016	Graduate Student	Michigan State University		
 
 ####PROFESSIONAL ORGANIZATIONS
+------------------------------
 
 **Name of organization, year(s)**
 
@@ -43,6 +47,7 @@ American Society for Microbiology, 2012-Present
 Society for Neuroscience, 2015
 
 ####HONORS AND AWARDS
+---------------------
 
 **Name of award, year(s)**
 
@@ -53,12 +58,15 @@ Alliance for Graduate Education in the Professoriate Fellowship, Spring 2015
 Best oral presentation by a Ph.D. candidate at Phi Zeta Day, Fall 2014
 
 ####TEACHING EXPERIENCE
+-----------------------
 
 **Title of course, organization, years** 
 
 [2015 Beacon Next Generation Sequencing Course] (http://angus.readthedocs.org/en/2015/
 ), Michigan State University, 2015, Teaching Assistant 
+
 ####CIVIC AND COMMUNITY INVOLVEMENT
+-----------------------------------
 
 **Function, name of association, year(s)**
 
@@ -67,6 +75,7 @@ Graduate Assistant, Michigan State University Summer Research Opportunities Prog
 Graduate Assistant, Michigan State University Bridge to the Ph.D. Neuroscience Program (BPNP), 2012-2014
 
 ####PUBLICATIONS 
+----------------
 
 Phillip T. Brooks, Julia A. Bell, Ankit Malik, Barbie J. Gadsden, Linda S. Mansfield (2015). Broad spectrum antibiotic treatment enhanced T cell mediated inflammation and Guillain Barré-associated antibody responses to Campylobacter jejuni in a mouse model. 
 
@@ -75,6 +84,8 @@ Chee Bing Ong, Kazuyoshi Kumagai, Phillip T. Brooks, Christina Brandenberger, Ry
 Yuan, H., Fu, G., Brooks, P.T., Weber, I., & Gadda G. (2010). Steady State Kinetic Mechanism and Reductive Half-Reaction of D-Arginine dehydrogenase from Pseudomonas aeruginosa. Journal of Biochemistry, 49, pp. 9542-9550 DOI: 10.1021/BI101420w
 
 ####RELEVANT TRAINING AND COURSEWORK
+------------------------------------
+
 (Year, Course title, Location)
 
 2015 Write Winning Grant Proposals Workshop, Michigan State University, East Lansing, Michigan 48824
@@ -94,7 +105,11 @@ Yuan, H., Fu, G., Brooks, P.T., Weber, I., & Gadda G. (2010). Steady State Kinet
 , Michigan State University, East Lansing, Michigan 48824
 
 ####Presentations  
+-----------------
+
 #####ORAL
+---------
+
 2015 Ph.D. Proposal Seminar 
 *	Host Microbiota as a Factor in the Adaptation of Campylobacter jejuni Guillain-Barré Associated Strains
 
@@ -113,7 +128,8 @@ Yuan, H., Fu, G., Brooks, P.T., Weber, I., & Gadda G. (2010). Steady State Kinet
 2008 McNair/SROP Symposium, Michigan State University, East Lansing, MI
 *	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin  
 
-######POSTER
+#####POSTER
+------------
 
 2015 Society for Neuroscience Annual Meeting (October 2015)
 Humanized microbiota alter host immune response to Campylobacter jejuni infection
@@ -132,6 +148,7 @@ Humanized microbiota alter host immune response to Campylobacter jejuni infectio
 *	Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin
 
 ####TRAINING GRANTS AND FELLOWSHIPS
+-----------------------------------
 
 (Year(s), Grant or fellowship title, source of funding, total amount of funding
 

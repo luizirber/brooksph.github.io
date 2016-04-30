@@ -8,7 +8,7 @@ permalink: /cv/
 
 ####Phillip T. Brooks
 
-####Updated [Sept 26, 2015]
+###Updated [April 30, 2015]
 
 ####PERSONAL DETAILS
 

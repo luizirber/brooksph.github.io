@@ -4,21 +4,21 @@ title: CV
 permalink: /cv/
 ---
 
-####Curriculum Vitae
+#### Curriculum Vitae
 ====================
 
-####Phillip T. Brooks
+#### Phillip T. Brooks
 ---------------------
 
-#####Updated [April 30, 2015]
+##### Updated [April 30, 2015]
 ----------------------------
 
-####PERSONAL DETAILS
+#### PERSONAL DETAILS
 --------------------
 
 Mailing Address: Food Safety & Toxicology Building, 1129 Farm Lane Rm. 180, Michigan State University, East Lansing, MI 48823
 
-####EDUCATION
+#### EDUCATION
 
 **Degree, University and location, Month/Year**
 

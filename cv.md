@@ -10,7 +10,7 @@ permalink: /cv/
 #### Phillip T. Brooks
 ---------------------
 
-##### Updated [April 30, 2015]
+##### Updated [September, 18 2016]
 ----------------------------
 
 #### PERSONAL DETAILS
@@ -25,7 +25,7 @@ Mailing Address: Food Safety & Toxicology Building, 1129 Farm Lane Rm. 180, Mich
 
 B.S. Psychology 		Georgia State University	December 2010
 
-Ph.D. Comparative Medicine	Michigan State University	Exp. Fall 2016
+Ph.D. Comparative Medicine	Michigan State University	August 2016
 and Integrative Biology and 
 Environmental Integrative 
 Toxicological Sciences
@@ -36,6 +36,8 @@ Toxicological Sciences
 **Year(s), Job title, Location**
 
 2011-2016	Graduate Student	Michigan State University		
+
+2016-Present Post-doctoral researcher University of California Davis 
 
 #### PROFESSIONAL ORGANIZATIONS
 ------------------------------

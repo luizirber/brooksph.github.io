@@ -8,4 +8,4 @@ Hi! My name is Phillip Brooks and I am a Postdoctoral Research Scientist at UC D
 
 ### Contact me
 
-[philliptbrooks@gmail.com](mailto:philliptbrooks@gmail.com)
+[ptbrooks@ucdavis.edu](mailto:ptbrooks@ucdavis.edu)

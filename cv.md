@@ -10,7 +10,7 @@ permalink: /cv/
 #### Phillip T. Brooks
 ---------------------
 
-##### Updated [September, 18 2016]
+##### Updated [May 2, 2017]
 ----------------------------
 
 #### PERSONAL DETAILS
@@ -37,7 +37,7 @@ Toxicological Sciences
 
 2011-2016	Graduate Student	Michigan State University		
 
-2016-Present Post-doctoral researcher University of California Davis 
+2016-Present Post-doctoral Research Scientist University of California Davis 
 
 #### PROFESSIONAL ORGANIZATIONS
 ------------------------------
@@ -66,6 +66,8 @@ Best oral presentation by a Ph.D. candidate at Phi Zeta Day, Fall 2014
 
 [2015 Beacon Next Generation Sequencing Course] (http://angus.readthedocs.org/en/2015/
 ), Michigan State University, 2015, Teaching Assistant 
+
+
 
 #### CIVIC AND COMMUNITY INVOLVEMENT
 -----------------------------------

@@ -10,13 +10,13 @@ permalink: /cv/
 #### Phillip T. Brooks
 ---------------------
 
-##### Updated [September, 18 2016]
+##### Updated [September, 13 2017]
 ----------------------------
 
 #### PERSONAL DETAILS
 --------------------
 
-Mailing Address: Center for Companion Animal Health, One Shields Avenue, Davis, CA 95618
+Mailing Address: 253 Center for Companion Animal Health, One Shields Avenue, Davis, CA 95618
 
 #### EDUCATION
 --------------
@@ -37,7 +37,30 @@ Toxicological Sciences
 
 2011-2016	Graduate Student	Michigan State University		
 
-2016-Present Post-doctoral researcher University of California Davis 
+2016-Present Post-doctoral Fellow University of California Davis 
+
+#### PUBLICATIONS 
+----------------
+
+[Phillip T. Brooks, Kelsey A. Brakel, Julia A. Bell, Christopher E. Bejcek, Trey Gilpin, Jean M. Brudvig, and Linda S. Mansfield (2017). Transplanted human fecal microbiota enhanced Guillain Barré syndrome autoantibody responses after Campylobacter jejuni infection in C57BL/6 mice.](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0284-4)
+
+[Chee Bing Ong, Kazuyoshi Kumagai, Phillip T. Brooks, Christina Brandenberger, Ryan P. Lewandowski, Daven N. Jackson-Humbles, Rance Nault, Timothy Zacharewski, James G. Wagner, and Jack R. Harkema (2015). Ozone-Induced Type 2 Immunity in Nasal Airways: Development and Lymphoid Cell Dependence in Mice. American Journal of Respiratory Cell and Molecular Biology. DOI:10.1165/rcmb.2015-0165OC](http://www.atsjournals.org/doi/abs/10.1165/rcmb.2015-0165OC)
+
+[Yuan, H., Fu, G., Brooks, P.T., Weber, I., & Gadda G. (2010). Steady State Kinetic Mechanism and Reductive Half-Reaction of D-Arginine dehydrogenase from Pseudomonas aeruginosa. Journal of Biochemistry, 49, pp. 9542-9550 DOI: 10.1021/BI101420w](http://pubs.acs.org/doi/abs/10.1021/bi101420w)
+
+#### TEACHING EXPERIENCE
+-----------------------
+
+**Title of course, organization, years** 
+
+[2017 Data Intensive Biology Summer Research Institute Environmental Metagenomics Workshop] (http://2017-dibsi-metagenomics.readthedocs.io/en/latest/toc.html), UC Davis, 2017
+
+[2017 Data Intensive Biology Summer Research Institute Two Week Introductory Bioinformatics Course (ANGUS)] (http://angus.readthedocs.io/en/2017/kmers-and-sourmash.html), UC Davis, 2017, Instructor 
+
+[2017 USCS Metagenomics Workshop] (https://2017-ucsc-metagenomics.readthedocs.io/en/latest/), UC Davis, 2017, Co-instructor
+
+[2015 Beacon Next Generation Sequencing Course] (http://angus.readthedocs.org/en/2015/
+), Michigan State University, 2015, Teaching Assistant 
 
 #### PROFESSIONAL ORGANIZATIONS
 ------------------------------
@@ -59,14 +82,6 @@ Alliance for Graduate Education in the Professoriate Fellowship, Spring 2015
 
 Best oral presentation by a Ph.D. candidate at Phi Zeta Day, Fall 2014
 
-#### TEACHING EXPERIENCE
------------------------
-
-**Title of course, organization, years** 
-
-[2015 Beacon Next Generation Sequencing Course] (http://angus.readthedocs.org/en/2015/
-), Michigan State University, 2015, Teaching Assistant 
-
 #### CIVIC AND COMMUNITY INVOLVEMENT
 -----------------------------------
 
@@ -76,14 +91,6 @@ Graduate Assistant, Michigan State University Summer Research Opportunities Prog
 
 Graduate Assistant, Michigan State University Bridge to the Ph.D. Neuroscience Program (BPNP), 2012-2014
 
-#### PUBLICATIONS 
-----------------
-
-Phillip T. Brooks, Julia A. Bell, Ankit Malik, Barbie J. Gadsden, Linda S. Mansfield (2015). Broad spectrum antibiotic treatment enhanced T cell mediated inflammation and Guillain Barré-associated antibody responses to Campylobacter jejuni in a mouse model. 
-
-Chee Bing Ong, Kazuyoshi Kumagai, Phillip T. Brooks, Christina Brandenberger, Ryan P. Lewandowski, Daven N. Jackson-Humbles, Rance Nault, Timothy Zacharewski, James G. Wagner, and Jack R. Harkema (2015). Ozone-Induced Type 2 Immunity in Nasal Airways: Development and Lymphoid Cell Dependence in Mice. American Journal of Respiratory Cell and Molecular Biology. DOI:10.1165/rcmb.2015-0165OC
-
-Yuan, H., Fu, G., Brooks, P.T., Weber, I., & Gadda G. (2010). Steady State Kinetic Mechanism and Reductive Half-Reaction of D-Arginine dehydrogenase from Pseudomonas aeruginosa. Journal of Biochemistry, 49, pp. 9542-9550 DOI: 10.1021/BI101420w
 
 #### RELEVANT TRAINING AND COURSEWORK
 ------------------------------------

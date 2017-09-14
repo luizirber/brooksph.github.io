@@ -23,7 +23,7 @@ and many other things. One of the HIGHLIGHTS of the course was the arrival [Nick
 
 All in all, we covered a lot and I think that many of the participants left feeling empowered just as I had the summer before. Honestly, I learned a ton as well. But... we also played a lot and I think it helped build a better learning environment. Volleyball and ping-pong tend to bring out the best in people. Thank you good people.
 
-<img src="https://raw.githubusercontent.com/brooksph/brooksph.github.io/master/images/NGS_Group_Photo.jpg "NGS_Group_Photo"" height="" width="">
+<img src="https://raw.githubusercontent.com/brooksph/brooksph.github.io/master/images/NGS_Group_Photo.jpg" height="" width="">
 
 
 It looks like the course will be up and running again next year and I highly recommend it to anyone with an interest in ngs data analysis. 

@@ -119,7 +119,7 @@ Graduate Assistant, Michigan State University Bridge to the Ph.D. Neuroscience P
 ##### ORAL
 ---------
 2017 microBOOmes: UC Davis Genome Center Halloween Symposium on Microbiomes
-* Composition of Gut Micrbiota Affects *Campylobacter jejuni* Mediated Inflammation and Autoimmunity in Murine Models 
+* Composition of Gut Microbiota Affects *Campylobacter jejuni* Mediated Inflammation and Autoimmunity in Murine Models 
 * [Link to talk](https://mfr.osf.io/render?url=https://osf.io/df4pj/?action=download%26mode=render)
 
 2015 Ph.D. Proposal Seminar 
@@ -146,11 +146,11 @@ Graduate Assistant, Michigan State University Bridge to the Ph.D. Neuroscience P
 * Dahak: A Sustainable Approach to High Confidence Metagenomics Analysis of Complex Samples
 * Phillip Brooks, Bruce Budowle, Chris Grahlmann, Stephanie L. Guertin, F. Curtis Hewitt, Dana R. Kadavy, Alexander F. Koeppel, Oana I. Lungu, Krista L. Ternus, Stephen D. Turner, and C. Titus Brown
 
-2017 Gordon Reasearch Conference 
+2017 Gordon Research Conference 
 * A Human-derived Microbiome Enhanced Campylobacter jejuni Colonization Levels in C57BL/6 and NOD Mice in Association with Likely Changes in the Gut Microbial Food Web
 * Phil Brooks, Kelsey Brakel, Alexander Etheridge, Julia Bell, and Linda Mansfield
 
-2017 6th Annual in-FLAME (Inflamamtion, Ecosystems, and the transformation of Glabal Health) Workshop 
+2017 6th Annual in-FLAME (Inflammation, Ecosystems, and the transformation of Global Health) Workshop 
 * Developing transplanted human microbiota mouse models to study the effects of the early microbiome on development of inflammation, autoimmunity and allergy
 * L.S. Mansfield, P.T. Brooks, K.A. Brakel, J.A. Bell, S.L. Ewart, D. Claiborne, and S. H. Arshad
 

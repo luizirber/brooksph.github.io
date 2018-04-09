@@ -4,8 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-#### Curriculum Vitae
-=====================
+### Curriculum Vitae
 
 #### Phillip T. Brooks
 ---------------------
@@ -53,13 +52,15 @@ Toxicological Sciences
 
 **Title of course, organization, years** 
 
-[2017 Data Intensive Biology Summer Research Institute Environmental Metagenomics Workshop] (http://2017-dibsi-metagenomics.readthedocs.io/en/latest/toc.html), UC Davis, 2017
+[2017 CICESES Environmental Metagenomics Workshop](https://2017-cicese-metagenomics.readthedocs.io/en/latest/), CICESE Ensenada, Mexico, 2018
 
-[2017 Data Intensive Biology Summer Research Institute Two Week Introductory Bioinformatics Course (ANGUS)] (http://angus.readthedocs.io/en/2017/kmers-and-sourmash.html), UC Davis, 2017, Instructor 
+[2017 Data Intensive Biology Summer Research Institute Environmental Metagenomics Workshop](http://2017-dibsi-metagenomics.readthedocs.io/en/latest/toc.html), UC Davis, 2017
 
-[2017 USCS Metagenomics Workshop] (https://2017-ucsc-metagenomics.readthedocs.io/en/latest/), UC Davis, 2017, Co-instructor
+[2017 Data Intensive Biology Summer Research Institute Two Week Introductory Bioinformatics Course (ANGUS)(http://angus.readthedocs.io/en/2017/kmers-and-sourmash.html), UC Davis, 2017, Instructor 
 
-[2015 Beacon Next Generation Sequencing Course] (http://angus.readthedocs.org/en/2015/
+[2017 USCS Metagenomics Workshop](https://2017-ucsc-metagenomics.readthedocs.io/en/latest/), UC Davis, 2017, Co-instructor
+
+[2015 Beacon Next Generation Sequencing Course](http://angus.readthedocs.org/en/2015/
 ), Michigan State University, 2015, Teaching Assistant 
 
 #### PROFESSIONAL ORGANIZATIONS
@@ -76,7 +77,7 @@ Society for Neuroscience, 2015
 
 **Name of award, year(s)**
 
-Institute for Integrative Toxicology Fellowship, 2012-2015
+Ruth L. Kirchstein/Institute for Integrative Toxicology Fellowship, 2012-2015
 
 Alliance for Graduate Education in the Professoriate Fellowship, Spring 2015
 

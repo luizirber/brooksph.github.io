@@ -110,17 +110,15 @@ Member, Society of Toxicology (SOT)
  
 #### PUBLICATIONS
 
-**IN PRESS**
-
-**Phillip T. Brooks**, Linda S. Mansfield (2018). Effects of antibiotic resistance (AR) and microbiota shifts on _Campylobacter jejuni_-mediated disease. Animal Health Research Reviews.
-
 **PUBLISHED**
+
+**Phillip T. Brooks**, Linda S. Mansfield (2018). Effects of antibiotic resistance (AR) and microbiota shifts on _Campylobacter jejuni_-mediated disease. Animal Health Research Reviews DOI:10.1017/S1466252318000014
 
 **Phillip T. Brooks**, Kelsey A. Brakel, Julia A. Bell, Christopher E. Bejcek, Trey Gilpin, Jean M. Brudvig, and Linda S. Mansfield (2017). Transplanted human fecal microbiota enhanced Guillain Barré syndrome autoantibody responses after _Campylobacter jejuni_ infection in C57BL/6 mice. BMC Microbiome DOI:10.1186/s40168-017-0284-4
 
 Chee Bing Ong, Kazuyoshi Kumagai, **Phillip T. Brooks**, Christina Brandenberger, Ryan P. Lewandowski, Daven N. Jackson-Humbles, Rance Nault, Timothy Zacharewski, James G. Wagner, and Jack R. Harkema (2015). Ozone-Induced Type 2 Immunity in Nasal Airways: Development and Lymphoid Cell Dependence in Mice. American Journal of Respiratory Cell and Molecular Biology. DOI:10.1165/rcmb.2015-0165O
 
-Hongling Yuan, Guoxing Fu, **Phillip T. Brooks**, Irene Weber, & Giovanni Gadda. (2010). Steady State Kinetic Mechanism and Reductive Half-Reaction of D-Arginine dehydrogenase from _Pseudomonas aeruginosa_. Journal of Biochemistry, 49, pp. 9542- 9550 DOI: 10.1021/BI101420w
+Hongling Yuan, Guoxing Fu, **Phillip T. Brooks**, Irene Weber, & Giovanni Gadda. (2010). Steady State Kinetic Mechanism and Reductive Half-Reaction of D-Arginine dehydrogenase from _Pseudomonas aeruginosa_. Journal of Biochemistry, 49, pp. 9542- 9550 DOI:10.1021/BI101420w
 
 **UNDER REVIEW**
 
@@ -150,7 +148,7 @@ Hongling Yuan, Guoxing Fu, **Phillip T. Brooks**, Irene Weber, & Giovanni Gadda.
 
 **Phillip T. Brooks**, Bruce Budowle, Chris Grahlmann, Stephanie L. Guertin, F. Curtis Hewitt, Dana R. Kadavy, Alexander F. Koeppel, Oana I. Lungu, Krista L. Ternus, Stephen D. Turner, and C. Titus Brown (2017). A Sustainable Approach to High Confidence Metagenomics Analysis of Complex Samples. 2nd ASM Conference on Rapid Next-generation Sequencing and Bioinformatic Pipelines, Washington, DC
 
-**Phillip T. Brook***, Kelsey Brakel, Alexander Etheridge, Julia Bell, and Linda Mans- field (2017). A Human-derived Microbiome Enhanced _Campylobacter jejuni_ Colonization Levels in C57BL/6 and NOD Mice in Association with Likely Changes in the Gut Microbial Food Web. Gordon Research Conference
+**Phillip T. Brook**, Kelsey Brakel, Alexander Etheridge, Julia Bell, and Linda Mans- field (2017). A Human-derived Microbiome Enhanced _Campylobacter jejuni_ Colonization Levels in C57BL/6 and NOD Mice in Association with Likely Changes in the Gut Microbial Food Web. Gordon Research Conference
 
 Linda S. Mansfield, **Phillip T. Brooks**, Kelsey A. Brakel, Julia A. Bell, Susan L. Ewart, Daniel Claiborne, and Syed H. Arshad (2017). Developing transplanted human microbiota mouse models to study the effects of the early microbiome on development of inflammation, autoimmunity and allergy. 6th Annual in-FLAME (Inflammation, Ecosystems, and the transformation of Global Health) Workshop, New York, NY
 

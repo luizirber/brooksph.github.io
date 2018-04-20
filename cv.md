@@ -3,9 +3,8 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-<p align="center">
-Phillip T. Brooks, Ph.D.
-<p>
+
+## Phillip T. Brooks, Ph.D.
   
 (517) 944-8954\
 325 K street #91 Davis, CA 95616\

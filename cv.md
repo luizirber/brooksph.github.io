@@ -6,7 +6,8 @@ permalink: /cv/
 <p align="center">
 Phillip T. Brooks, Ph.D.
 <p>
-
+  
+---------------------------------------------------------------
 (517) 944-8954\
 325 K street #91 Davis, CA 95616\
 ptbrooks@ucdavis.edu\

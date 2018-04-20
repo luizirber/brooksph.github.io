@@ -13,11 +13,11 @@ ptbrooks@ucdavis.edu\
 [github.com/brooksph](github.com/brooksph) \
 [linkedin.com/in/philliptbrooks](linkedin.com/in/philliptbrooks)
 
-## SUMMARY OF QUALIFICATIONS
+#### SUMMARY OF QUALIFICATIONS
 
 Phillip is a co-chair for the NIH DCPPC Interoperability Task Force, Certified Data Carpentry Instructor, former Associate Director of Data Intensive Biology Institute at the University of California, Davis, and member of the American Association for Mi- crobiology (ASM), with years of experience in microbiology, immunology, microbiome analysis, open source project development and cloud computing. Phillip is an experi- enced developer of genomic and metagenomic analysis pipelines, responsible for project management and data generation, interpretation, and presentation.
 
-## EDUCATION
+#### EDUCATION
 
 Michigan State University, East Lansing, MI
 Doctor of Philosophy, Dual-degree Comparative Medicine and Integrative Biology (CMIB) and Environmental Toxicology, August 2016
@@ -25,7 +25,7 @@ Doctor of Philosophy, Dual-degree Comparative Medicine and Integrative Biology (
 Georgia State University, Atlanta, GA
 Bachelor of Science, Psychology, Chemistry minor, December 2010
 
-## STRENGTHS & SKILLS
+#### STRENGTHS & SKILLS
 
 **Professional Certifications**: Data Carpentry\
 **Languages**: Bash scripting, some Python, some R\
@@ -35,7 +35,7 @@ Bachelor of Science, Psychology, Chemistry minor, December 2010
 **High Throughput Sequence Analysis**: Read quality score assessment and filter- ing (fastqc, trimmomatic), genome and metagenome assembly (SPAdes, MEGAHIT), genome alignment, mapping and variant calling (BWA and bcftools), taxonomic clas- sification (sourmash and kaiju), functional annotation (prokka, SRST2, ABRicate, and mi-faser), and amplicon analysis (mothur)\
 **Laboratory skills**: Basic microbiology techniques (media preparation, cell culture, basic and differential staining, etc); cell culture, sonication, ammonium sulfate precipi- tation, centrifugation, fast protein liquid chromatography (FPLC), gel electrophoresis, enzyme linked immunosorbent assay (ELISA), stopped-flow spectrophotometry, flow cytometry, western blotting, gel electrophoresis, RNA/DNA/protein isolation, PCR, quantitative real-time PCR, immunocytochemistry, immunohistochemistry, light and fluorescent microscopy, mouse breeding, generation of humanized microbiota mice from germ-free mice, housing and genotyping; open-field test, hang test; cell viability assessment
 
-## EXPERIENCE
+#### EXPERIENCE
 
 **Postdoctoral Scholar Dept. of Population Health and Repro.**\
 2016–Present University of California, Davis
@@ -86,11 +86,11 @@ kinase r (PKR), protein kinase b (PKB), and adenosine monophosphate-activated pr
   - Probed the mechanism of Zn2+ activation of c-peptide, a component of pro-insulin
   - Result demonstrated that Zn2+ increased glucose uptake by red blood cells
 
-## RESEARCH GRANTS
+#### RESEARCH GRANTS
 
 Co-authored proposal to Joint Genome Institute (JGI). Awarded access to data and computational resources. With C. Titus Brown titled ”Advancing metagenome classi- fication and comparison by MinHash fingerprinting of IMG/M data sets”, March 2017
 
-## HONORS
+#### HONORS
 
 Institute for Integrative Toxicology Fellowship, 2012-2015
 
@@ -102,13 +102,13 @@ Society of Toxicology Annual Meeting (Baltimore, Maryland) Student Travel Award 
 
 Michigan State University Ronald E. McNair Spirit Award, 2008
 
-## PROFESSIONAL AFFILIATIONS
+#### PROFESSIONAL AFFILIATIONS
   
 Member, American Society for Microbiology (ASM) 
 
 Member, Society of Toxicology (SOT)
  
-## PUBLICATIONS
+#### PUBLICATIONS
 
 **IN PRESS**
 
@@ -126,7 +126,7 @@ Hongling Yuan, Guoxing Fu, **Phillip T. Brooks**, Irene Weber, & Giovanni Gadda.
 
 **Phillip T. Brooks**, Julia A. Bell, Christopher E. Bejcek, Ankit Malik, and Linda S. Mansfield. Antibiotic depletion drives severe _Campylobacter jejuni_-mediated Type 1/17 colitis and Type 2 autoimmunity
 
-## ABSTRACTS AND PRESENTATIONS
+#### ABSTRACTS AND PRESENTATIONS
 
 **ORAL**
 
@@ -170,25 +170,25 @@ Linda S. Mansfield, **Phillip T. Brooks**, Kelsey A. Brakel, Julia A. Bell, Susa
 
 **Phillip T. Brooks** and Dana Spence (2008). Metal (Zn2+) Activated C-peptide Induced ATP Release via Red Blood Cells (RBCs) with the Addition of Albumin . McNair/SROP Symposium, Michigan State University, East Lansing, MI
 
-## TEACHING EXPERINECE
+#### TEACHING EXPERINECE
 
-2017 UCD Data Intensive Biology Summer Institute ANGUS 2-Week workshop, University of California, Davis, Davis, CA\ 
+**2017 UCD Data Intensive Biology Summer Institute ANGUS 2-Week workshop, University of California, Davis, Davis, CA**\ 
 Associate director and instructor
   - [http://angus.readthedocs.io/en/2017/](http://angus.readthedocs.io/en/2017/), [http://ivory.idyll.org/dibsi/](http://ivory.idyll.org/dibsi/)
   
-2017 UCSC Metagenomics workshop, University of California Santa Cruz, CA\
+**2017 UCSC Metagenomics workshop, University of California Santa Cruz, CA**\
 Co-instructor
   - [https://2017-ucsc-metagenomics.readthedocs.io/en/latest/](https://2017-ucsc-metagenomics.readthedocs.io/en/latest/)
   
-2017 Data Intensive Biology Summer Institute Environmental Metagenomics Workshop University of California, Davis, Davis, CA\
+**2017 Data Intensive Biology Summer Institute Environmental Metagenomics Workshop University of California, Davis, Davis, CA**\
 Co-instructor
   - [https://github.com/brooksph/2017-dibsi-metagenomics](https://github.com/brooksph/2017-dibsi-metagenomics)
 
-2015 Beacon Next Generation Sequencing Course Michigan State University, 
+**2015 Beacon Next Generation Sequencing Course, Michigan State University, East Lansing, MI**\ 
 Teaching Assistant
   - [http://angus.readthedocs.org/en/2015/](http://angus.readthedocs.org/en/2015/)
 
-## CIVIC AND COMMUNITY ENGAGEMENT
+#### CIVIC AND COMMUNITY ENGAGEMENT
 
 Diversity Committee, College of Veterinary Medicine, Co-chair, 2015-2016
 

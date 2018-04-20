@@ -3,15 +3,15 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-
+<p align="center">
 Phillip T. Brooks, Ph.D.
-========================
+<p>
 
---------------------------------
-(517) 944-8954 
-325 K street #91 Davis, CA 95616
-ptbrooks@ucdavis.edu github.com/brooksph linkedin.com/in/philliptbrooks
---------------------------------
+(517) 944-8954\
+325 K street #91 Davis, CA 95616\
+ptbrooks@ucdavis.edu\
+[github.com/brooksph](github.com/brooksph) \
+[linkedin.com/in/philliptbrooks](linkedin.com/in/philliptbrooks)
 
 ## SUMMARY OF QUALIFICATIONS
 
@@ -174,19 +174,19 @@ Linda S. Mansfield, ***Phillip T. Brooks***, Kelsey A. Brakel, Julia A. Bell, Su
 
 2017 UCD Data Intensive Biology Summer Institute ANGUS 2-Week workshop, University of California, Davis, Davis, CA\ 
 Associate director and instructor
-  - http://angus.readthedocs.io/en/2017/, http://ivory.idyll.org/dibsi/
+  - [http://angus.readthedocs.io/en/2017/](http://angus.readthedocs.io/en/2017/), [http://ivory.idyll.org/dibsi/](http://ivory.idyll.org/dibsi/)
   
 2017 UCSC Metagenomics workshop, University of California Santa Cruz, CA\
 Co-instructor
-  - https://2017-ucsc-metagenomics.readthedocs.io/en/latest/
+  - [https://2017-ucsc-metagenomics.readthedocs.io/en/latest/](https://2017-ucsc-metagenomics.readthedocs.io/en/latest/)
   
 2017 Data Intensive Biology Summer Institute Environmental Metagenomics Workshop University of California, Davis, Davis, CA\
 Co-instructor
-  - https://github.com/brooksph/2017-dibsi-metagenomics
+  - [https://github.com/brooksph/2017-dibsi-metagenomics](https://github.com/brooksph/2017-dibsi-metagenomics)
 
 2015 Beacon Next Generation Sequencing Course Michigan State University, 
 Teaching Assistant
-  - http://angus.readthedocs.org/en/2015/
+  - [http://angus.readthedocs.org/en/2015/](http://angus.readthedocs.org/en/2015/)
 
 ## CIVIC AND COMMUNITY ENGAGEMENT
 
